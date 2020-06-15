@@ -1,2 +1,2 @@
-Git study
+Git study hard
 Git learn
